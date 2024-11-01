@@ -1,6 +1,6 @@
 # ULTRAKILL Patcher - Halloween Edition 🎃
 
-Welcome to the **ULTRAKILL Patcher - Halloween Edition**, a utility designed by **Vista Group** to enhance your ULTRAKILL experience by setting your system time to Halloween 2024. This tool will revert your system's date and time automatically after 30 seconds to maintain system accuracy.
+Welcome to the **ULTRAKILL Patcher - Halloween Edition**, a utility designed by **Vista Group** to make your ULTRAKILL experience better by setting your system time to Halloween 2024. Welcome to da spooky!! 🎃
 
 Join our community for support, updates, and more at [Vista Group Discord](https://discord.gg/yvTj9NEcyt).
 
